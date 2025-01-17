@@ -1,2 +1,2 @@
 # Shareholder-Management
-Bank Web Based Shareholder Management System
+Financial Institutions Web Based Shareholder Management System, In Case of Omo Bank
